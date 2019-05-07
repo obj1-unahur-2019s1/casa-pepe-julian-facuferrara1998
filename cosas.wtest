@@ -1,0 +1,9 @@
+import casa.*
+import cosas.*
+
+test "compre" {
+
+	casaDePepeYJulian.comprar(heladera)
+	casaDePepeYJulian.comprar(compu)
+
+}
